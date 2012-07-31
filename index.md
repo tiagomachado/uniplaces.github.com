@@ -16,7 +16,7 @@ Projects we have open sourced:
 
 Currently we are looking to fill a few geek positions. Do you want to code?
 
-<a href="{{ BASE_PATH }}/carrers.html" class="btn btn-success btn-large">cat carrers.md</a>
+<a href="{{ BASE_PATH }}/careers.html" class="btn btn-success btn-large">cat careers.md</a>
 
 ## UniPlaces Geek Team
 
