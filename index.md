@@ -37,7 +37,7 @@ Vasco Orey - Intern Software Engineer:
 
  - [Github](https://github.com/vascoorey)
    
-## We thank all technologies that make possible UniPlaces and the geeks that build them
+## We are greatful for all the technologies that make UniPlaces possible and the geeks that build them
 
 <div class="row">
 <div class="span2"><img src="http://chris.smith.name/assets/github.png" class="tech-logo"/></div>
