@@ -5,6 +5,8 @@ tagline: Where UniPlaces geeks meet
 ---
 {% include JB/setup %}
 
+<img src="{{ BASE_PATH }}/static/meme.jpg" style="float:right;margin-left:100px" />
+
 ## Open Source
 
 Projects we have open sourced:
