@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jobs @ UniPlaces geek team
-tagline: We are looking for geeks!!
+title: Jobs @ UniPlaces Hacker team
+tagline: We are looking for coders!!
 group: navigation
 ---
 
@@ -14,6 +14,17 @@ group: navigation
 <div style="clear:both"></div>
 
 ## > db.positions.find( { open : true } )<span style="text-decoration:blink">_</span>
+
+### JavaScript::Junior::Software::Engineer
+
+<div class="row">
+	<div class="span10">
+		Your main goal will be to help in the development of our web platform. Your engineering mission will have a strong focus in JavaScript but will work on other technologies. In UniPlaces we use JavaScript for client-side and server-side using Node.js.
+	</div>
+	<div class="span2">
+		<a href="{{ BASE_PATH }}/jobs/junior-javascript-software-engineer.html" class="btn btn-success btn-large">README.md</a>
+	</div>
+</div>
 
 ### JavaScript::Software::Engineer
 

@@ -14,7 +14,7 @@ Projects we have open sourced:
  + [Pagination Bundle](https://github.com/uniplaces/PaginationBundle): Paginate your Symfony2 MVC in seconds
  + [Babelate Bundle](https://github.com/uniplaces/BabelateBundle): Easy interface to Symfony2 YAML files
 
-## GeekJobsAtUniPlaces
+## HackerJobsAtUniPlaces
 
 Currently we are looking to fill a few geek positions. Do you want to code?
 
