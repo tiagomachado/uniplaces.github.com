@@ -52,7 +52,7 @@ Vasco Orey - Intern Software Engineer:
 <div class="row">
 <div class="span2"><img class="tech-logo" src="http://webriders.com.ua/media/technologies/memcached_logo.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" /></div>
-<div class="span2"><img class="tech-logo" src="http://rabeycreative.com/wp-content/uploads/2012/07/CSS3_logo.png" /></div>
+<div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/css3.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.searchtools.com/images/solr_FC.jpg" /></div>
 <div class="span2"><img class="tech-logo" src="http://symfony.com/logos/symfony_black_03.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://performerjs.org/wp-content/uploads/2009/12/jquery.png" /></div>

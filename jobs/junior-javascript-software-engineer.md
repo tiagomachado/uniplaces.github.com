@@ -45,7 +45,7 @@ Your main tools will be:
 <div class="span2"><img class="tech-logo" src="http://upload.wikimedia.org/wikipedia/en/a/a7/Nodejs_logo_light.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://webriders.com.ua/media/technologies/memcached_logo.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" /></div>
-<div class="span2"><img class="tech-logo" src="http://rabeycreative.com/wp-content/uploads/2012/07/CSS3_logo.png" /></div>
+<div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/css3.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.searchtools.com/images/solr_FC.jpg" /></div>
 </div>
 <div class="row">
