@@ -31,13 +31,9 @@ Miguel Manso - Software Engineer:
 
  - [Github](https://github.com/mumia)
 
-Sergio Viera - Creative Director:
+João Vasques - Graduate Software Engineer:
 
- - [Github](https://github.com/sergiovieira)
-
-Vasco Orey - Intern Software Engineer:
-
- - [Github](https://github.com/vascoorey)
+ - [Github](https://github.com/JoaoVasques)
    
 ## We are greatful for all the technologies that make UniPlaces possible and the geeks that build them
 

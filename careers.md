@@ -15,6 +15,17 @@ group: navigation
 
 ## > db.positions.find( { open : true } )<span style="text-decoration:blink">_</span>
 
+### Backend::Software::Engineer
+
+<div class="row">
+        <div class="span10">
+		Your main goal will be to collaborate in UniPlaces defining and implementing a strategy and architecture for our backend Software, while helping in all the areas of the software engineering within the company.
+        </div>
+        <div class="span2">
+                <a href="{{ BASE_PATH }}/jobs/backend-software-engineer.html" class="btn btn-success btn-large">README.md</a>
+        </div>
+</div>
+
 ### JavaScript::Junior::Software::Engineer
 
 <div class="row">
