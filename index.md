@@ -33,10 +33,12 @@ Miguel Manso - Software Engineer:
 
 João Vasques - Graduate Software Engineer:
 
+ - [PersonalPage](http://about.me/joao_vasques)
  - [Github](https://github.com/JoaoVasques)
    
 André Luís - Software Engineer:
 
+ - [PersonalPage](http://id.andr3.net/)
  - [Github](https://github.com/andr3pt)
 
 ## We are greatful for all the technologies that make UniPlaces possible and the geeks that build them
