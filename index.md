@@ -35,11 +35,15 @@ João Vasques - Graduate Software Engineer:
 
  - [Github](https://github.com/JoaoVasques)
    
+André Luís - Software Engineer:
+
+ - [Github](https://github.com/andr3pt)
+
 ## We are greatful for all the technologies that make UniPlaces possible and the geeks that build them
 
 <div class="row">
 <div class="span2"><img src="http://chris.smith.name/assets/github.png" class="tech-logo"/></div>
-<div class="span2"><img class="tech-logo" src="http://upload.wikimedia.org/wikipedia/en/a/a7/Nodejs_logo_light.png" /></div>
+<div class="span2"><img class="tech-logo" src="http://image.spreadshirt.net/image-server/v1/compositions/16127553/views/1,width=280,height=280.png/bumper-sticker-with-scala-logo_design.png" /></div>
 <div class="span2"><img src="{{ BASE_PATH }}/static/phprightway.png" width="100px" style="float:left;margin-bottom:20px;margin-right:5px" /></div>
 <div class="span2"><img src="http://25.media.tumblr.com/tumblr_lsus01g1ik1qies3uo1_400.png" width="100px" style="float:left;margin-bottom:20px;margin-right:5px" /></div>
 <div class="span2"><img src="http://www.networkworld.com/community/files/imce/img_blogs/mongodb.png" width="100px" style="float:left;margin-bottom:20px;margin-right:5px" /></div>
@@ -51,5 +55,5 @@ João Vasques - Graduate Software Engineer:
 <div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/css3.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.searchtools.com/images/solr_FC.jpg" /></div>
 <div class="span2"><img class="tech-logo" src="http://symfony.com/logos/symfony_black_03.png" /></div>
-<div class="span2"><img class="tech-logo" src="http://performerjs.org/wp-content/uploads/2009/12/jquery.png" /></div>
+<div class="span2"><img class="tech-logo" src="http://spray.io/img/logo.png" /></div>
 </div>
