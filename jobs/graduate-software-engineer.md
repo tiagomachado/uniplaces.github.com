@@ -26,7 +26,7 @@ UniPlaces is an online marketplace that makes it really easy for millions of stu
  + Advanced AWS servers management, monitoring and orchestration.
  + Machine Learning, Data-retrieval, with Solr
  + Lean startup development methodologies.
- + Direct customer user feedback, working embedded in our biz dev team to learn more about thes technologies.
+ + Direct customer user feedback, working embedded in our biz dev team to learn more about these technologies.
  + Project Management.
 
 ## Crazy team
