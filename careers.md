@@ -15,6 +15,19 @@ group: navigation
 
 ## > db.positions.find( { open : true } )<span style="text-decoration:blink">_</span>
 
+### Graduate::Software::Engineer
+
+<div class="row">
+        <div class="span10">
+                In this job you will be learning from a team with more than twenty years of aggregated experience about state-of-the-art web tec$
+        </div>
+        <div class="span2">
+                <a href="{{ BASE_PATH }}/jobs/graduate-software-engineer.html" class="btn btn-success btn-large">README.md</a>
+        </div>
+</div>
+
+<!--
+
 ### Backend::Software::Engineer
 
 <div class="row">
@@ -58,5 +71,7 @@ group: navigation
 		<a href="{{ BASE_PATH }}/jobs/intern-software-engineer.html" class="btn btn-success btn-large">README.md</a>
 	</div>
 </div>
+
+-->
 
 <hr />
