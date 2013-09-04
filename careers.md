@@ -19,7 +19,7 @@ group: navigation
 
 <div class="row">
         <div class="span10">
-                In this job you will be learning from a team with more than twenty years of aggregated experience about state-of-the-art web tec$
+                In this job you will be learning from a team with more than twenty years of aggregated experience about state-of-the-art web technologies and engineering processes, inside a multinational start-up with presence in two countries (Portugal and UK) and expanding across Europe.
         </div>
         <div class="span2">
                 <a href="{{ BASE_PATH }}/jobs/graduate-software-engineer.html" class="btn btn-success btn-large">README.md</a>
@@ -65,7 +65,7 @@ group: navigation
 
 <div class="row">
 	<div class="span10">
-		In this job you will be learning from a team with more than twenty years of aggregated experience about state-of-the-art web technologies and engineering processes, inside a multinational start-up with presence in two countries (Portugal and Chile, via Startup Chile) and expanding across Latin America and Europe.
+		In this job you will be learning from a team with more than twenty years of aggregated experience about state-of-the-art web technologies and engineering processes, inside a multinational start-up with presence in two countries (Portugal and UK) and expanding across Europe.
 	</div>
 	<div class="span2">		
 		<a href="{{ BASE_PATH }}/jobs/intern-software-engineer.html" class="btn btn-success btn-large">README.md</a>
