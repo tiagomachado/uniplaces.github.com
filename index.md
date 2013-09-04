@@ -22,24 +22,24 @@ Currently we are looking to fill a few geek positions. Do you want to code?
 
 ## UniPlaces Geek Team
 
-Leo Lara -  Co-founder / Software Engineer:
+Leo Lara -  Co-founder / CTO / Product Manager:
 
  - [Personal page](http://leolara.me)
  - [Github](https://github.com/leolara)
 
-Miguel Manso - Software Engineer:
+Miguel Manso - Tech Lead / Senior Software Engineer:
 
  - [Github](https://github.com/mumia)
 
-João Vasques - Graduate Software Engineer:
-
- - [PersonalPage](http://about.me/joao_vasques)
- - [Github](https://github.com/JoaoVasques)
-   
-André Luís - Software Engineer:
+Andr&eacute; Lu&iacute;s - Lead Front-end Software Engineer:
 
  - [PersonalPage](http://id.andr3.net/)
  - [Github](https://github.com/andr3pt)
+
+Jo&atilde;o Vasques - Graduate Software Engineer:
+
+ - [PersonalPage](http://about.me/joao_vasques)
+ - [Github](https://github.com/JoaoVasques)
 
 ## We are greatful for all the technologies that make UniPlaces possible and the geeks that build them
 
