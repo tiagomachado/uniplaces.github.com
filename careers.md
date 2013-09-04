@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jobs @ UniPlaces Hacker team
-tagline: We are looking for coders!!
+tagline: We are looking for code artisans!!
 group: navigation
 ---
 
