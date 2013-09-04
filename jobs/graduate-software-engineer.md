@@ -45,11 +45,6 @@ UniPlaces is an online marketplace that makes it really easy for millions of stu
 <div class="span10">At UniPlaces we like to work with Open Source and we have Open Sourced a couple of projects (http://github.com/uniplaces).</div>
 </div>
 
-<div class="row">
-<div class="span2"><img class="tech-logo"  src="http://www.networkworld.com/community/files/imce/img_blogs/mongodb.png" /></div>
-<div class="span10">One of the best NoSQL databases in the market we use it intensively in combination with memcached. Its flexible datamodel is amazing!!</div>
-</div>
-
 ### And more:
 
 <div class="row">
