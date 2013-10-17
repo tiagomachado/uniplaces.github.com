@@ -4,6 +4,10 @@ title: Backend Software Engineer
 tagline: Job description
 ---
 
+Uniplaces is looking for two software engineers to join our rapidly growing team. This is an invaluable learning and growth career opportunity, to be part of the core engineering team that will enable international expansion of Uniplaces.
+
+{% include jobs/aboutuniplaces.md %}
+
 In this job you will be working with a team with more than twenty years of aggregated experience on state-of-the-art web technologies and engineering processes, inside a multinational start-up with presence in two countries (Portugal and Chile, via Startup Chile) and expanding across Latin America and Europe. 
 
 Your main goal will be to collaborate in UniPlaces defining and implementing a strategy and architecture for our backend Software, while helping in all the areas of the software engineering within the company.
