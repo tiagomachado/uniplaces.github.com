@@ -65,5 +65,5 @@ Jo&atilde;o Vasques - Graduate Software Engineer:
 <div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/css3.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.searchtools.com/images/solr_FC.jpg" /></div>
 <div class="span2"><img class="tech-logo" src="http://symfony.com/logos/symfony_black_03.png" /></div>
-<div class="span2"><img class="tech-logo" src="http://www.appliedvideo.com/images/scala_logo_LG_RGB.jpg" /></div>
+<div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/scalaLogo.jpg" /></div>
 </div>
