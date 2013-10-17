@@ -60,7 +60,7 @@ Jo&atilde;o Vasques - Graduate Software Engineer:
 <div class="span2"><img class="tech-logo" src="http://socialmediaseo.net/wp-content/uploads/2010/12/amazon-web-services-cloud-computing.gif" /></div>
 </div>
 <div class="row">
-<div class="span2"><img class="tech-logo" src="http://webriders.com.ua/media/technologies/memcached_logo.png" /></div>
+<div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/redis.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" /></div>
 <div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/css3.png" /></div>
 <div class="span2"><img class="tech-logo" src="http://www.searchtools.com/images/solr_FC.jpg" /></div>
