@@ -36,6 +36,14 @@ Andr&eacute; Lu&iacute;s - Lead Front-end Software Engineer:
  - [PersonalPage](http://id.andr3.net/)
  - [Github](https://github.com/andr3pt)
 
+Bryan McEire - Software Engineer:
+
+ - [Github](https://github.com/mceire)
+ - [Twitter @mceire](https://twitter.com/mceire)
+ - [Youtube - Music & Sky diving](http://www.youtube.com/bryanmceire)
+
+## UniPlaces Alumni
+
 Jo&atilde;o Vasques - Graduate Software Engineer:
 
  - [PersonalPage](http://about.me/joao_vasques)
