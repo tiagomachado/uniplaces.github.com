@@ -53,7 +53,7 @@ Jo&atilde;o Vasques - Graduate Software Engineer:
 
 <div class="row">
 <div class="span2"><img src="http://chris.smith.name/assets/github.png" class="tech-logo"/></div>
-<div class="span2"><img class="tech-logo" src="http://image.spreadshirt.net/image-server/v1/compositions/16127553/views/1,width=280,height=280.png/bumper-sticker-with-scala-logo_design.png" /></div>
+<div class="span2"><img class="tech-logo" src="{{ BASE_PATH }}/static/nodejs.png" /></div>
 <div class="span2"><img src="{{ BASE_PATH }}/static/phprightway.png" width="100px" style="float:left;margin-bottom:20px;margin-right:5px" /></div>
 <div class="span2"><img src="http://25.media.tumblr.com/tumblr_lsus01g1ik1qies3uo1_400.png" width="100px" style="float:left;margin-bottom:20px;margin-right:5px" /></div>
 <div class="span2"><img src="http://www.networkworld.com/community/files/imce/img_blogs/mongodb.png" width="100px" style="float:left;margin-bottom:20px;margin-right:5px" /></div>
