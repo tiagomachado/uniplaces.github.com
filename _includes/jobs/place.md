@@ -1,7 +1,7 @@
 
 ## Awesome place
 
-<img src="{{ BASE_PATH }}/static/office1.JPG" style="float:right;margin-left:100px" />
+<img src="{{ BASE_PATH }}/static/office1.jpg" style="float:right;margin-left:100px" />
 
 ## Awesome Environment
 
