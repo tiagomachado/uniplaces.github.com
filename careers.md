@@ -26,6 +26,17 @@ group: navigation
         </div>
 </div>
 
+### Graduate::Frontend::Engineer
+
+<div class="row">
+        <div class="span10">
+                Uniplaces is looking for two graduate front-end engineers to join our rapidly growing team. This is an invaluable learning and growth career opportunity, to be part of the core engineering team that will enable international expansion of Uniplaces.
+        </div>
+        <div class="span2">
+                <a href="{{ BASE_PATH }}/jobs/grad-frontend-engineer.html" class="btn btn-success btn-large">README.md</a>
+        </div>
+</div>
+
 ### Software::Engineer
 
 <div class="row">
